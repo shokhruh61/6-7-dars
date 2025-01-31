@@ -1,6 +1,5 @@
 import { FC, useEffect, useState } from 'react'
 import currensy from '../currency.json'
-import reactLogo from '../react.svg'
 interface CurrencyType {
   Flag?: string
   CountryName: string
